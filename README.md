@@ -10,7 +10,7 @@ Some projects may have incomplete dependencies.*
 ## My Journey
 
 I've been coding for nearly a decade, first with 
-[Khan Academy's](https://www.khanacademy.org/computing/computer-programming) Computer Programming platform in JS, then with 
+[Khan Academy](https://www.khanacademy.org/computing/computer-programming)'s Computer Programming platform in JS, then with 
 [Processing](https://www.processing.org) in their proprietary visual Java framework, and now with a ton of different languages, IDEs, and platforms
 (Python, Unity/C#, HTML/CSS, C++). My passion for programming started in game development, but likewise has spread to many corners of the
 CS universe. These projects represent the odd agglomeration of my game dev, data science, machine learning, physics, web, and other miscelanious
