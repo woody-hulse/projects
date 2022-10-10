@@ -25,3 +25,4 @@ This repository is currently structured as follows:
 + More significant projects are stored separately
   - These are completed projects, but still may be missing some dependencies depending on confidentiality or space constraints.
     Check each README for more info.
++ Significant projects created in 2023 or later will have their own dedicated repositories
