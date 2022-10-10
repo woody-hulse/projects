@@ -1,0 +1,21 @@
+﻿<Properties StartupConfiguration="{4FC9FFE7-100F-533A-68A3-8A4FA4B004CB}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/MapGenerator.cs">
+    <Files>
+      <File FileName="Assets/Scripts/Spawner.cs" Line="93" Column="119" />
+      <File FileName="Assets/Scripts/MapGenerator.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/Gun.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/Projectile.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/GunController.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/PlayerController.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/Player.cs" Line="50" Column="35" />
+      <File FileName="Assets/Scripts/Enemy.cs" Line="141" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="be309b9c-6c55-4e5a-9bab-138aae8bbd9c" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

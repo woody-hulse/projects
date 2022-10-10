@@ -1,0 +1,16 @@
+﻿<Properties StartupConfiguration="{3CDB3642-D735-8803-7D95-7D91C175C19B}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/Guard.cs">
+    <Files>
+      <File FileName="Assets/Scripts/Guard.cs" Line="46" Column="6" />
+      <File FileName="Assets/Scripts/Player.cs" />
+      <File FileName="Assets/Scripts/UIManager.cs" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="2b54b953-4039-4699-b828-07e9d88828a8" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

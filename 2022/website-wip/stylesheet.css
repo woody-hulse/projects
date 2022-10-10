@@ -1,0 +1,249 @@
+body {
+  background-color: #1e1e1e;
+}
+
+h1 {
+  text-align: left;
+  font-size: 72px;
+  margin-top: 1em;
+  margin-left: 300px;
+  margin-bottom: 0em;
+  font-family: 'Menlo', sans-serif;
+  color: #ffffff;
+}
+
+h3 {
+  text-align: left;
+  font-size: 24px;
+  margin-top: -1.3em;
+  margin-left: 300px;
+  margin-bottom: 2em;
+  font-family: 'Menlo', sans-serif;
+  color: #bbbbbb;
+}
+
+p {
+  font-size: 21px;
+  text-align: left;
+  font-family: 'Menlo', sans-serif;
+  color: #ffffff;
+}
+
+a {
+  text-decoration: none;
+}
+
+section-header {
+  margin-left: 325px;
+  font-size: 55px;
+  text-align: justify;
+  position: relative;
+  top: 0px;
+  font-family: 'Menlo-bold', sans-serif;
+  color: #ffffff;
+}
+
+todo {
+  position: absolute;
+  display: inline;
+  border-radius: 1em;
+  width: 80px; height: 80px;
+  background-color: #ffffff;
+  filter: opacity(0.5);
+}
+
+background2 {
+  display: inline-block;
+  position: absolute;
+  left: 0px;
+  width: 2000px;
+  background-color: rgba(70, 70, 70, 1);
+  z-index: -1;
+}
+
+t1 {
+  text-align: left;
+  position: relative;
+  font-size: 20px;
+  width: 640px;
+  font-family: 'Menlo-bold', sans-serif;
+  color: rgb(26, 26, 26);
+
+  -moz-user-select: none;
+  -khtml-user-select: none;
+  -webkit-user-select: none;
+  -ms-user-select: none;
+  user-select: none;
+}
+
+span {
+  display: inline-block;
+  width: 6px;
+  height: 190px;
+  margin-right: 19px;
+  background-color: #d4d4d4;
+}
+
+graph.a {
+  display: block;
+  top: 138px; left: 375px; width: 20px; height: 20px;
+  background-color: #CE9178;
+  position: absolute;
+  transition: transform .3s ease;
+}
+graph.b {
+  display: block;
+  top: 138px; left: 495px; width: 20px; height: 20px;
+  background-color: #569CD6;
+  position: absolute;
+  transition: transform .3s ease;
+}
+graph.c {
+  display: block;
+  top: 138px; left: 615px; width: 20px; height: 20px;
+  background-color: #6A9955;
+  position: absolute;
+  transition: transform .3s ease;
+}
+
+graph:hover {
+  /*transform: translateX(-2px) translateY(-2px);*/
+  transform: rotate(45deg);
+  filter: brightness(1.1);
+}
+
+shadow {
+  text-align: left;
+  font-size: 25px;
+  color: #1e1e1e;
+  font-family: 'Menlo-bold', sans-serif;
+}
+
+shadow.a {
+  display: block;
+  top: 75px; left: 336px; width: 98px; height: 98px;
+  background-color: #1e1e1e;
+  position: absolute;
+}
+shadow.b {
+  display: block;
+  top: 75px; left: 456px; width: 98px; height: 98px;
+  background-color: #1e1e1e;
+  position: absolute;
+}
+shadow.c {
+  display: block;
+  top: 75px; left: 576px; width: 98px; height: 98px;
+  background-color: #1e1e1e;
+  position: absolute;
+}
+
+table {
+  margin: .3em;
+  width: 290px;
+}
+
+th {
+  padding: .2em;
+}
+
+td {
+  padding-left: .5em;
+  padding-right: .5em;
+  border: 1px solid #900;
+  background-color: #ffc;
+}
+
+hr {
+  margin-left: 0px;
+  height: 10px solid #000;
+}
+
+
+h2.a::before {
+  content: " ";
+  display: inline;
+  position: absolute;
+  top: 0; right: 0; bottom: 0; left: 0;
+  inset: 0 0 0 0;
+  background: #CD9731;
+  margin-top: 25px;
+  z-index: -1;
+  transition: transform .3s ease;
+}
+
+
+h2.b::before {
+  content: " ";
+  display: inline;
+  position: absolute;
+  top: 0; right: 0; bottom: 0; left: 0;
+  inset: 0 0 0 0;
+  background: #569CD6;
+  margin-top: 25px;
+  z-index: -1;
+  transition: transform .3s ease;
+}
+
+h2.c::before {
+  content: " ";
+  display: inline;
+  position: absolute;
+  top: 0; right: 0; bottom: 0; left: 0;
+  inset: 0 0 0 0;
+  background: #B267E6;
+  margin-top: 25px;
+  z-index: -1;
+  transition: transform .3s ease;
+}
+
+h2.d::before {
+  content: " ";
+  display: inline;
+  position: absolute;
+  top: 0; right: 0; bottom: 0; left: 0;
+  inset: 0 0 0 0;
+  background: #B5CEA8;
+  margin-top: 25px;
+  z-index: -1;
+  transition: transform .3s ease;
+}
+
+h2::before {
+  transform: scaleX(0.1);
+  transform-origin: bottom left;
+}
+
+h2:hover::before {
+  transform: scaleX(0.12);
+  transform-origin: bottom left;
+}
+
+
+h2 {
+  position: relative;
+  margin-top: 0px;
+  margin-bottom: 0.5em;
+  margin-left: 325px;
+  font-size: 35px;
+  font-family: 'Menlo', sans-serif;
+  color: #ffffff
+}
+
+@media (orientation: landscape) {
+  body {
+    grid-auto-flow: column;
+  }
+}
+
+
+
+
+#trHeader {
+  text-decoration: underline;
+  color: #900;
+}
+
+.centerCell {
+  text-align: center;
+}

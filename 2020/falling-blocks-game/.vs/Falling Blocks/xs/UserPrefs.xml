@@ -1,0 +1,29 @@
+﻿<Properties StartupConfiguration="{D33D1E49-99DA-14B3-5182-3E9DCB03970B}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/PlayerMovement.cs">
+    <Files>
+      <File FileName="Assets/PlayerMovement.cs" Line="17" Column="52" />
+      <File FileName="Assets/FallingBlock.cs" Line="17" Column="92" />
+      <File FileName="Assets/Scripts/Spawner.cs" Line="25" Column="6" />
+      <File FileName="Assets/Scripts/GameDifficulty.cs" Line="6" Column="2" />
+      <File FileName="Assets/Scripts/Particle.cs" Line="29" Column="77" />
+      <File FileName="Assets/Scripts/GameOver.cs" Line="15" Column="72" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Falling Blocks" expanded="True" selected="True" />
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="3d58bae8-89c7-443a-9319-f7f0371d6deb" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
