@@ -1,4 +1,4 @@
-# woody-hulse/*projects*
+# *woody-hulse/projects*
 
 ## About
 
