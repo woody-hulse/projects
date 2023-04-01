@@ -7,7 +7,7 @@ This repository is a compilation of all of my personal and work-related projects
 NOTE: *Some projects in this repository are incomplete, either due to time constraints, space constraints, boredom, or confidentiality. 
 Some projects may have incomplete dependencies.*
   
-## My Journey
+## Me
 
 I've been coding for nearly a decade, first with 
 [Khan Academy](https://www.khanacademy.org/computing/computer-programming)'s Computer Programming platform in JS, then with 
